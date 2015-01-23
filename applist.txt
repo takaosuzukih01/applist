@@ -1,0 +1,14 @@
+##バックライト
+xbacklight
+
+##サウンド
+alsamixer
+
+##電源管理
+acpi
+
+##スクリーンキャプチャ
+xwd
+xwd -root
+
+
